@@ -8,6 +8,10 @@ would allow feeding into another desired system.  I've been running this since 2
 travel times to/from work and have some interesting data, especially around the time of the 
 Covid breakout.
 
+The directions vs newdirections was a change I made around Covid where I added the newdirections 
+whisper files with a much longer retention time at much higher time resolution.. you only need to 
+write each once
+
 Requires the googlemaps python library:
 https://github.com/googlemaps/google-maps-services-python
 
